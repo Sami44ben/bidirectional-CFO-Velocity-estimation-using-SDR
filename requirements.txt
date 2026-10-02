@@ -1,0 +1,7 @@
+# analysis and figures
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.9
+# talking to the ADALM-Pluto radios (acquisition only; analysis runs without these)
+pyadi-iio==0.0.21
+pylibiio==0.25
